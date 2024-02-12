@@ -39,6 +39,8 @@ To run the notebook locally, follow these steps:
    pip install -r requirements.txt
    ```
 
+````
+
 ## Usage
 
 - Open and run the Jupyter notebook `PRODIGY_ML_04.ipynb` to explore the code and execute each cell.
@@ -62,4 +64,3 @@ The model's performance is evaluated on a test set, and accuracy metrics are rep
 ## Visualization
 
 Training and validation accuracy/loss curves are visualized using Matplotlib to provide insights into the model's performance over epochs.
-````
